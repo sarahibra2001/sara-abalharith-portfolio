@@ -3,7 +3,7 @@
 
 Personal portfolio website for **Sara Ibrahim Abalharith** — Web Developer & Data Analyst.
 
-🔗 **Live site:** _add your GitHub Pages link here once it's live_
+🔗 **Live site:** [_add your GitHub Pages link here once it's live_](https://sarahibra2001.github.io/sara-abalharith-portfolio/index.html)
 
 ## About
 
